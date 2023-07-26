@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">KesriTravelsTask2</string>
+    <string name="student_name">Student Name</string>
+    <string name="marks">Marks</string>
+    <string name="selected_course">Select Course</string>
+    <string name="total_marks">Total Marks</string>
+    <string name="student_list">Student List</string>
+    <string name="add_student">Add Student</string>
+    <string name="student_information">Student Information</string>
+    <string name="save">Save</string>
+    <string name="average_marks">Average Marks</string>
+    <string name="no_data_found_please_add_student">No Data Found \n Please Add Student Information</string>
+</resources>
